@@ -1,0 +1,23 @@
+{
+  "name": "rtm-context-swap",
+  "version": "0.0.1",
+  "description": "Simple web endpoint to rename tags in Remember the Milk.",
+  "main": "context-swapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vergenzt/rtm-context-swap.git"
+  },
+  "author": "Tim Vergenz <vergenzt@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vergenzt/rtm-context-swap/issues"
+  },
+  "homepage": "https://github.com/vergenzt/rtm-context-swap",
+  "dependencies": {
+    "express": "^4.13.3",
+    "rtm-js": "^1.0.2"
+  }
+}
